@@ -344,6 +344,14 @@ footer{
     margin-bottom: 15px;
   }
 
+  .projects-cards div {
+    background-size: 100%;
+  }
+
+  body{
+    background-color: red;
+  }
+
   #about .desc{
     font-size: 13px;
   }
